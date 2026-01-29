@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-IT Support & Junior Web Developer | Problem-solving, user-focused, and continuously learning.
+Junior Web Developer | Problem-solving, user-focused, and continuously learning.
 Background in web development and functional analysis.
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/juan-andrés-imbaquingo-neacato-97b788309/) 💼.</br>
 
