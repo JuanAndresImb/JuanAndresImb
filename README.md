@@ -4,7 +4,6 @@ Background in web development and functional analysis.
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/juan-andrés-imbaquingo-neacato-97b788309/) 💼.</br>
 
 
-Let's build something amazing together! 🚀</br></br>
 
 
 ## 💻 Tech Stack:
